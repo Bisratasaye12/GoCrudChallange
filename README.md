@@ -1,4 +1,4 @@
-```markdown
+
 # Go CRUD API
 
 This project is a simple RESTful API for managing "Person" records, built using Go and designed with a layered architecture (Controller, UseCase, Repository). The API performs basic CRUD operations, including creating, reading, updating, and deleting person records. This project also includes end-to-end tests for each layer using `testify` and `httptest` packages.
@@ -13,7 +13,7 @@ This project is a simple RESTful API for managing "Person" records, built using 
 
 ## Project Structure
 
-```plaintext
+```
 GoCrudChallenge/
 ├── Controller      # Handles incoming HTTP requests and responses
 ├── Domain
